@@ -90,9 +90,9 @@ The flagship production AI chat platform.
 - **Rich Scientific Rendering**: Real-time streaming markdown, KaTeX math expressions, and interactive Mermaid architectural diagrams.
 - **Zero Lock-In**: Full exportability of all conversations, reasoning tokens, and tool calls.
 
-### 2. [`klucid`](https://github.com/Kreflux/klucid)
+### 2. `klucid` (CLI Agent)
 
-A local-first, inspectable CLI coding agent and development companion.
+A local-first, inspectable CLI coding agent included with Kreflux Plus and Pro (available via `npm install -g klucid`).
 
 - **Zero Hidden System Prompts**: Full auditability over injected system instructions and context windows.
 - **Metered Kreflux Compute**: Seamless device auth pairing with the Kreflux backend for shared compute allowances.
@@ -131,8 +131,6 @@ Curated high-fidelity Chain-of-Thought (CoT) reasoning traces hosted on Hugging 
 
 | Repository | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [**`kreflux`**](https://github.com/Kreflux/kreflux) | Production web chat platform, multi-provider failover, reasoning ladder | Next.js 16, React 19, Supabase, Tailwind | [![Active](https://img.shields.io/badge/status-active-success)](https://github.com/Kreflux/kreflux) |
-| [**`klucid`**](https://github.com/Kreflux/klucid) | Local-first CLI coding agent with inspectable reasoning and device auth | TypeScript, Node.js, CLI | [![Active](https://img.shields.io/badge/status-active-success)](https://github.com/Kreflux/klucid) |
 | [**`openkreflux`**](https://github.com/Kreflux/openkreflux) | Open reasoning evaluation framework and routing engine | Python 3.10+, PyTorch, vLLM | [![Active](https://img.shields.io/badge/status-active-success)](https://github.com/Kreflux/openkreflux) |
 | [**`openkreflux-datasets`**](https://huggingface.co/Kreflux-AI) | Curated CoT reasoning traces and synthetic instruction sets | Hugging Face Datasets, Parquet, JSONL | [![Datasets](https://img.shields.io/badge/HF-datasets-FFD21E)](https://huggingface.co/Kreflux-AI) |
 | [**`.github`**](https://github.com/Kreflux/.github) | Organization profile, community health standards, issue templates | Markdown, GitHub Actions | [![Active](https://img.shields.io/badge/status-active-success)](https://github.com/Kreflux/.github) |
