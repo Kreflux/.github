@@ -52,10 +52,10 @@ Kreflux is structured as a coordinated ecosystem of applications, agentic tools,
                  │                                               │
                  ▼                                               ▼
    ┌───────────────────────────┐                   ┌───────────────────────────┐
-   │          kreflux          │                   │          klucid           │
-   │   Full-stack AI Chat UI   │                   │    CLI Coding Agent       │
-   │  Reasoning Ladder (Low    │                   │   Local-first, inspectable│
-   │   to Ultra) + KaTeX/Mermaid│                  │   zero hidden prompts     │
+   │        kreflux.com        │                   │        klucid CLI         │
+   │    Production AI Chat     │                   │    Coding Agent (npm)     │
+   │   Multi-Provider Routing  │                   │    Local-first, BYOK      │
+   │   Dynamic Compute Ladder  │                   │    Zero Hidden Prompts    │
    └─────────────┬─────────────┘                   └─────────────┬─────────────┘
                  │                                               │
                  └───────────────────────┬───────────────────────┘
@@ -63,15 +63,15 @@ Kreflux is structured as a coordinated ecosystem of applications, agentic tools,
                                          ▼
                       ┌──────────────────────────────────────┐
                       │             openkreflux              │
-                      │  Multi-Provider Routing Engine       │
-                      │  Reasoning Benchmarks & Eval Harness │
+                      │      Inference Engine & Router       │
+                      │     Reasoning Benchmark Harness      │
                       └──────────────────┬───────────────────┘
                                          │
                                          ▼
                       ┌──────────────────────────────────────┐
                       │         openkreflux-datasets         │
-                      │  Curated CoT Reasoning Traces        │
-                      │  Hugging Face: hf.co/Kreflux-AI      │
+                      │     Curated CoT Reasoning Traces     │
+                      │       Hugging Face: Kreflux-AI       │
                       └──────────────────────────────────────┘
 ```
 
