@@ -9,12 +9,13 @@
   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-### Kreflux — Open Reasoning & Resilient Inference
+# Kreflux
 
-<p align="center">
-### Kreflux: Open Reasoning & Resilient Inference
+### Open Reasoning and Resilient Inference
 
-> A resilient, transparent AI platform built for inspectable multi-step reasoning, dynamic compute ladders, and robust multi-provider inference.
+<em>A resilient, transparent AI platform built for inspectable multi-step reasoning, dynamic compute ladders, and robust multi-provider inference.</em>
+
+<br/>
 
 [Website](https://kreflux.com) | [Hugging Face](https://huggingface.co/Kreflux-AI) | [Documentation](https://kreflux.com/docs) | [Community](https://github.com/Kreflux) | [Security Policy](https://github.com/Kreflux/.github/blob/main/SECURITY.md)
 
