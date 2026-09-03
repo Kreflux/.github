@@ -12,18 +12,11 @@
 ### Kreflux — Open Reasoning & Resilient Inference
 
 <p align="center">
-  <em>Democratizing high-throughput, multi-provider open reasoning with full trace inspectability and zero vendor lock-in.</em>
-</p>
+### Kreflux: Open Reasoning & Resilient Inference
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge&logo=apache)](https://opensource.org/licenses/Apache-2.0)
-[![Next.js 16](https://img.shields.io/badge/Next.js-16%20App%20Router-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HuggingFace Kreflux-AI](https://img.shields.io/badge/HuggingFace-Kreflux--AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Kreflux-AI)
-[![Status: Active](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)](https://github.com/Kreflux)
+> A resilient, transparent AI platform built for inspectable multi-step reasoning, dynamic compute ladders, and robust multi-provider inference.
 
----
-
-[Website](https://kreflux.com) • [Hugging Face](https://huggingface.co/Kreflux-AI) • [Documentation](https://kreflux.com/docs) • [Community](https://github.com/Kreflux) • [Security Policy](https://github.com/Kreflux/.github/blob/main/SECURITY.md)
+[Website](https://kreflux.com) | [Hugging Face](https://huggingface.co/Kreflux-AI) | [Documentation](https://kreflux.com/docs) | [Community](https://github.com/Kreflux) | [Security Policy](https://github.com/Kreflux/.github/blob/main/SECURITY.md)
 
 </div>
 
