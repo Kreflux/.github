@@ -81,9 +81,9 @@ Kreflux is structured as a coordinated ecosystem of applications, agentic tools,
                       └──────────────────────────────────────┘
 ```
 
-### 1. [`kreflux`](https://github.com/Kreflux/kreflux)
+### 1. [Kreflux Platform](https://kreflux.com)
 
-The flagship production AI chat platform.
+The flagship AI chat and reasoning platform hosted at [kreflux.com](https://kreflux.com).
 
 - **Dynamic Reasoning Ladder**: Dial computational depth from `Low` to `Ultra` on demand.
 - **Multi-Provider Failover**: Automatic fallback across Featherless, Neokens, and OpenRouter with resume-on-dropout session persistence.
@@ -139,18 +139,16 @@ Curated high-fidelity Chain-of-Thought (CoT) reasoning traces hosted on Hugging 
 
 ## 🚀 Quickstart Guides
 
-### For Developers: Running Kreflux Web Chat
+### For Developers: OpenKreflux Python Engine
 
 ```bash
-# Clone the main repository
-git clone https://github.com/Kreflux/kreflux.git
-cd kreflux
+# Install the core OpenKreflux engine
+pip install openkreflux
 
-# Install dependencies (requires Node.js >= 22.0.0)
-npm install
-
-# Start local development server
-npm run dev
+# Or clone the open-source repository
+git clone https://github.com/Kreflux/openkreflux.git
+cd openkreflux
+uv pip install -e ".[dev]"
 ```
 
 ### For Terminal Users: Klucid CLI Agent
