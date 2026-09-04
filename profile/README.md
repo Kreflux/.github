@@ -11,7 +11,7 @@
 
 # Kreflux
 
-### Open Reasoning and Resilient Inference
+## Open Reasoning and Resilient Inference
 
 <em>A resilient, transparent AI platform built for inspectable multi-step reasoning, dynamic compute ladders, and robust multi-provider inference.</em>
 
