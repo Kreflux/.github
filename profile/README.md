@@ -125,7 +125,7 @@ Curated high-fidelity Chain-of-Thought (CoT) reasoning traces hosted on Hugging 
 
 | Repository | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [**`openkreflux`**](https://github.com/Kreflux/openkreflux) | Open reasoning evaluation framework and routing engine | Python 3.10+, PyTorch, vLLM | [![Active](https://img.shields.io/badge/status-active-success)](https://github.com/Kreflux/openkreflux) |
+| [**`openkreflux`**](https://github.com/Kreflux/openkreflux) | Open reasoning evaluation framework and routing engine | Python 3.10+, PyTorch, vLLM | [![PyPI](https://img.shields.io/pypi/v/openkreflux.svg)](https://pypi.org/project/openkreflux/) [![Active](https://img.shields.io/badge/status-active-success)](https://github.com/Kreflux/openkreflux) |
 | [**`openkreflux-datasets`**](https://huggingface.co/Kreflux-AI) | Curated CoT reasoning traces and synthetic instruction sets | Hugging Face Datasets, Parquet, JSONL | [![Datasets](https://img.shields.io/badge/HF-datasets-FFD21E)](https://huggingface.co/Kreflux-AI) |
 | [**`.github`**](https://github.com/Kreflux/.github) | Organization profile, community health standards, issue templates | Markdown, GitHub Actions | [![Active](https://img.shields.io/badge/status-active-success)](https://github.com/Kreflux/.github) |
 
@@ -136,8 +136,11 @@ Curated high-fidelity Chain-of-Thought (CoT) reasoning traces hosted on Hugging 
 ### For Developers: OpenKreflux Python Engine
 
 ```bash
-# Install the core OpenKreflux engine
+# Install the core OpenKreflux engine from PyPI
 pip install openkreflux
+
+# Or using uv
+uv pip install openkreflux
 
 # Or clone the open-source repository
 git clone https://github.com/Kreflux/openkreflux.git
