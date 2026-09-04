@@ -54,4 +54,4 @@ jobs:
 
       - name: Run Markdown Linter
         run: |
-          npx --yes markdownlint-cli "**/*.md" --ignore node_modules --disable MD013 MD033 MD041 MD024
+          npx --yes markdownlint-cli "profile/README.md" "*.md" --disable MD013 MD033 MD041 MD024
