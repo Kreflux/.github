@@ -13,5 +13,6 @@ This repository serves as the official organization profile and community config
 ## 🔗 Quick Links
 
 - 🌐 **Platform**: [https://kreflux.com](https://kreflux.com)
+- 💬 **Discord**: [https://discord.gg/q9bmfQybn8](https://discord.gg/q9bmfQybn8)
 - 🤗 **Hugging Face**: [https://huggingface.co/Kreflux-AI](https://huggingface.co/Kreflux-AI)
 - 🔒 **Security**: [security@kreflux.com](mailto:security@kreflux.com)

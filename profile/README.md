@@ -17,7 +17,7 @@
 
 <br/>
 
-[Website](https://kreflux.com) | [Hugging Face](https://huggingface.co/Kreflux-AI) | [Documentation](https://kreflux.com/docs) | [Community](https://github.com/Kreflux) | [Security Policy](https://github.com/Kreflux/.github/blob/main/SECURITY.md)
+[Website](https://kreflux.com) | [Hugging Face](https://huggingface.co/Kreflux-AI) | [Discord](https://discord.gg/q9bmfQybn8) | [Documentation](https://kreflux.com/docs) | [Community](https://github.com/Kreflux) | [Security Policy](https://github.com/Kreflux/.github/blob/main/SECURITY.md)
 
 </div>
 
@@ -181,6 +181,7 @@ print(f"Full CoT Trace:\n{sample['thinking_trace']}")
 ## 🌐 Community & Ecosystem
 
 - 🌐 **Web Platform**: [kreflux.com](https://kreflux.com)
+- 💬 **Discord**: [Join the Kreflux Community](https://discord.gg/q9bmfQybn8)
 - 🤗 **Hugging Face**: [huggingface.co/Kreflux-AI](https://huggingface.co/Kreflux-AI)
 - 🐙 **GitHub**: [github.com/Kreflux](https://github.com/Kreflux)
 - 🔒 **Security Disclosures**: [security@kreflux.com](mailto:security@kreflux.com)
